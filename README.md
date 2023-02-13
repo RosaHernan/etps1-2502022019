@@ -13,3 +13,14 @@
 
 Esta rama contiene todos los ejercicios de la guia llamada: **GUIA2 - CONTROLES**
 ***
+
+# Apendice
+
+| **Nombre de Proyecto** | **Ejercicio Correspondiente** |
+|----------|----------|
+| ejemplo|	Ejemplo #1|
+| Guia3_Checkbox|	Ejemplo #2|
+| Pendiente| Ejercicio 1|
+| Guia2_Ejercicio2| Ejercicio 2|
+| CalculadoraPolacaInversaApp|	Ejercicio 3|
+| Guia2_Ejercicio4|	Ejercicio 4|
