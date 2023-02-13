@@ -14,7 +14,7 @@
 Esta rama contiene todos los ejercicios de la guia llamada: **GUIA2 - CONTROLES**
 ***
 
-# Apendice
+# Índice
 
 | **Nombre de Proyecto** | **Ejercicio Correspondiente** |
 |----------|----------|
