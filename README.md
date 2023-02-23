@@ -9,3 +9,5 @@
 
 Este repositorio contendrá todos los proyectos desarrollados para la catedra: **Tecnicas de producción industrial I**
 ***
+
+Esta Rama posee el primer examen parcial del ciclo 01-2023
