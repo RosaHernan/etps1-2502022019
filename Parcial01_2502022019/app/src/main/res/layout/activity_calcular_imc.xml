@@ -38,7 +38,7 @@
             android:layout_height="28dp" />
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/imgFormula"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/formula" />
