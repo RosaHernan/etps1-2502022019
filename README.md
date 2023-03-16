@@ -1,4 +1,4 @@
-# Rama correspondiente a la Guia 1 de Ejercicios 
+# Rama correspondiente a la Guia 2 de Ejercicios 
 #### Grupo de Estudiantes
 | **Carnet** | **Nombres** |
 |----------|----------|
@@ -11,7 +11,7 @@
 ***
 # Descripción
 
-Esta rama contiene todos los ejercicios de la guia llamada: **GUIA2 - CONTROLES**
+Esta rama contiene todos los ejercicios de la guia llamada: **GUIA3 - Activity**
 ***
 
 # Índice
@@ -19,8 +19,9 @@ Esta rama contiene todos los ejercicios de la guia llamada: **GUIA2 - CONTROLES*
 | **Nombre de Proyecto** | **Ejercicio Correspondiente** |
 |----------|----------|
 | ejemplo|	Ejemplo #1|
-| Guia3_Checkbox|	Ejemplo #2|
-| Guia2_Ejercicio1| Ejercicio 1|
-| Guia2_Ejercicio2| Ejercicio 2|
-| CalculadoraPolacaInversaApp|	Ejercicio 3|
-| Guia2_Ejercicio4|	Ejercicio 4|
+| |	Ejemplo #2|
+| | Ejercicio 1|
+| | Ejercicio 2|
+| |	Ejercicio 3|
+| |	Ejercicio 4|
+| |	Ejercicio 5|
