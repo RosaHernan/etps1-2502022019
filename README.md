@@ -1,4 +1,4 @@
-# Rama correspondiente a la Guia 2 de Ejercicios 
+# Rama correspondiente a la Guia 3 de Ejercicios 
 #### Grupo de Estudiantes
 | **Carnet** | **Nombres** |
 |----------|----------|
@@ -11,7 +11,7 @@
 ***
 # Descripción
 
-Esta rama contiene todos los ejercicios de la guia llamada: **GUIA3 - Activity**
+Esta rama contiene todos los ejercicios de la guia llamada: **GUIA5 - ListView**
 ***
 
 # Índice
