@@ -11,7 +11,7 @@
 ***
 # Descripción
 
-Esta rama contiene todos los ejercicios de la guia llamada: **GUIA3 - Activity**
+Esta rama contiene todos los ejercicios de la guia llamada: **GUIA4 - Activity**
 ***
 
 # Índice
