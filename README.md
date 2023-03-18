@@ -18,10 +18,9 @@ Esta rama contiene todos los ejercicios de la guia llamada: **GUIA4 - Activity**
 
 | **Nombre de Proyecto** | **Ejercicio Correspondiente** |
 |----------|----------|
-| ejemplo|	Ejemplo #1|
-| |	Ejemplo #2|
+| |	Ejemplo |
 | | Ejercicio 1|
 | | Ejercicio 2|
-| |	Ejercicio 3|
+| Guia4_Ejercicio3|	Ejercicio 3|
 | |	Ejercicio 4|
-| |	Ejercicio 5|
+| Guia4_Ejercicio5|	Ejercicio 5|
